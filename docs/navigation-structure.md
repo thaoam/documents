@@ -233,8 +233,8 @@ To add auxiliary links to your site (in the upper right on all pages), add it to
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "Thảo Am trên GitHub":
+    - "//github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents"
 ```
 
 ---
