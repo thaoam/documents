@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Tài liệu kỹ thuật hướng dẫn của Tiếp Doanh nghiệp tư nhân Thảo Am
 description: Tài liệu kỹ thuật hướng dẫn dành cho quản trị viên và khách hàng của Tiếp Doanh nghiệp tư nhân Thảo Am
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://help.tiep.vn" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
