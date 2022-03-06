@@ -12,7 +12,7 @@ permalink: /
 Tài liệu này nhằm bổ sung kiến thức và tránh nhầm lẫn, quên dành cho root, quản trị viên và đối tượng khách hàng, đối tác, reseller, quản trị viên WHM, WHMCS.
 {: .fs-6 .fw-300 }
 
-[Đặt mua Hosting](https://id.tiep.vn){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Bắt đầu tài liệu](#lời-mở-đầu){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Đặt mua Hosting](https://thaoam.net){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Bắt đầu tài liệu](#lời-mở-đầu){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -20,7 +20,7 @@ Tài liệu này nhằm bổ sung kiến thức và tránh nhầm lẫn, quên d
 
 ### Đơn giản hóa
 
-Sau khi đăng ký tên miền tiep.vn mới thấy hết được sự phiền phức của nó khi chuyển đổi. Lên kế hoạch chuyển qua dùng miền quốc tế thôi. Khi đăng ký tên miền mới với chi phí quá cao 750.000đ một năm khi đăng ký mới, kèm phí gia hạn khủng khiếp lên đến 460.000đ các năm tiếp theo, và vì đăng ký tên miền qua một nhà cung cấp trung gian là công ty TNHH strongwings ở Hóc Môn, hiện tên miền đã bị kẹp 2 đầu quản lý bởi những người xa lạ. Do đó để đơn giản hóa sau các sự cố của doanh nghiệp, chúng tôi tạo ra tài liệu hướng dẫn này nhằm đơn giản hóa vận hành, và giúp khách hàng sử dụng dịch vụ đơn giản hơn.
+Sau khi đăng ký tên miền Tiếp mới thấy hết được sự phiền phức của nó khi chuyển đổi. Lên kế hoạch chuyển qua dùng miền quốc tế thôi. Khi đăng ký tên miền mới với chi phí quá cao 750.000đ một năm khi đăng ký mới, kèm phí gia hạn khủng khiếp lên đến 460.000đ các năm tiếp theo, và vì đăng ký tên miền qua một nhà cung cấp trung gian là công ty TNHH strongwings ở Hóc Môn, hiện tên miền đã bị kẹp 2 đầu quản lý bởi những người xa lạ. Do đó để đơn giản hóa sau các sự cố của doanh nghiệp, chúng tôi tạo ra tài liệu hướng dẫn này nhằm đơn giản hóa vận hành, và giúp khách hàng sử dụng dịch vụ đơn giản hơn.
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
