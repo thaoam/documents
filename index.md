@@ -12,7 +12,7 @@ permalink: /
 Tài liệu này nhằm bổ sung kiến thức và tránh nhầm lẫn, quên dành cho root, quản trị viên và đối tượng khách hàng, đối tác, reseller, quản trị viên WHM, WHMCS.
 {: .fs-6 .fw-300 }
 
-[Đặt mua Hosting](https://id.tiep.vn){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }   [Bắt đầu tài liệu](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Đặt mua Hosting](https://id.tiep.vn){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Bắt đầu tài liệu](#getting-started){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
