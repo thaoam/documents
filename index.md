@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Home
+title: Lời mở đầu
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Tài liệu kỹ thuật hướng dẫn của Thảo Am.
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Tài liệu này nhằm bổ sung kiến thức và tránh nhầm lẫn, quên dành cho root, quản trị viên và đối tượng khách hàng, đối tác, reseller, quản trị viên WHM, WHMCS.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Đặt mua Hosting](https://id.tiep.vn){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } [Bắt đầu tài liệu](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
