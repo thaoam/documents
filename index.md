@@ -2,7 +2,7 @@
 layout: default
 title: Lời mở đầu
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Đây là tài liệu mở dành cho nội bộ DNTN Thảo Am, root, manager, user, khách hàng, đối tác, clients, reseller, đại lý sử dụng nâng cao kiến thức và tư liệu công việc."
 permalink: /
 ---
 
@@ -80,7 +80,7 @@ Tài liệu này thuộc bản quyền của &copy; 2022-{{ "now" | date: "%Y" }
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng thực theo [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
 
 ### Contributing
 
