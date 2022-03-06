@@ -74,9 +74,9 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ---
 
-## About the project
+## Về dự án
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+Tài liệu này thuộc bản quyền của &copy; 2022-{{ "now" | date: "%Y" }} của Doanh nghiệp tư nhân Thảo Am, chịu trách nhiệm bởi [Phạm Xuân Tiếp](https://thaoam.net).
 
 ### License
 
