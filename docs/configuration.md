@@ -30,11 +30,28 @@ Site error: the ionCube PHP Loader needs to be installed. This is a widely used 
 ```
 Đây là lỗi do chưa cài đặt và kích hoạt ionCube PHP Loader trên WHM.
 
+### Cách 1: Cài ionCube PHP Loader trong WHM Tweak Settings
+
 Để làm điều này ta sẽ:
-1. Đăng nhập vào cPanel & WHM dành cho root.
-2. Tìm tới Tweak Settings
-3. tìm PHP
-4. trong thông số cPanel PHP loader ta click chọn vào ioncube
+1. Đăng nhập vào **cPanel & WHM** dành cho root.
+2. Tìm tới **Tweak Settings**.
+3. tìm **PHP**.
+4. trong thông số **cPanel PHP loader** ta click chọn vào **ioncube**.
+
+### Cách 2: Cài ionCube PHP Loader từ WHM 
+
+Installing IonCube using the WHM
+
+This method uses the GUI version of easyapache to install the ioncube loader, if you do not want to rebuild Apache and PHP then dont use this method.
+
+1. Log into the WHM as the user root.
+2. On the left hand side scroll down and click the EasyApache link
+3. Under 'Profile', select 'Previous Saved Config' and click the 'Start customizing based on profile' button.
+4. Under 'Apache Version' click 'Next Step'
+5. Under 'PHP Version' click 'Next Step'
+6. Under 'Short Options List' check the 'Ioncube Loader for PHP' option and click the 'Save and Build' button.
+7. This process will take a while to complete, roughly 10-30 minutes depending on your hardware.
+
 ## Search
 
 ```yaml
