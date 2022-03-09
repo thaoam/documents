@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Configuration
+title: Cấu hình cPanel & WHM
 nav_order: 2
 ---
 
-# Configuration
+# Configuration Cấu hình cho root cPanel & WHM
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+Tài liệu này dành cho root server cấu hình cho server trên WHM để đáp ứng hiệu suất của server máy chủ phục vụ hosting \_config.yml file.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -20,13 +20,21 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
-## Site logo
+## Cài ionCube PHP Loader
+
+ionCube PHP Loader cân thiết để cho WHMCS chạy trên server và làm client billing system bán hàng, chăm sóc khách hàng.
+
 
 ```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
+Site error: the ionCube PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking. Please visit get-loader.ioncube.com for install assistance.
 ```
+Đây là lỗi do chưa cài đặt và kích hoạt ionCube PHP Loader trên WHM.
 
+Để làm điều này ta sẽ:
+1. Đăng nhập vào cPanel & WHM dành cho root.
+2. Tìm tới Tweak Settings
+3. tìm PHP
+4. trong thông số cPanel PHP loader ta click chọn vào ioncube
 ## Search
 
 ```yaml
