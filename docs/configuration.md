@@ -10,7 +10,7 @@ nav_order: 2
 Tài liệu này dành cho root server cấu hình cho server trên WHM để đáp ứng hiệu suất của server máy chủ phục vụ hosting WHM hệ thống.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Mục lục
 {: .no_toc .text-delta }
 
 1. TOC
