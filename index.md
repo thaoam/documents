@@ -26,7 +26,7 @@ Tài liệu kỹ thuật này dành cho nhân viên, đối tác của [Doanh ng
 
 ### Cài đặt nhanh All-in-one tất cả trong một
 
-Bắt đầu nhanh với việc chỉ cần tải profile EasyApache4 này của Thaoam.net [\thaoam_easyapache4_config_profile.json](https://github.com/just-the-docs/just-the-docs/tree/main/thaoam_easyapache4_config_profile.json) và upload lên EasyApache4 profile của server WHM và cho chạy mặc định profile này.
+Bắt đầu nhanh với việc chỉ cần tải profile EasyApache4 này của Thaoam.net [\thaoam_easyapache4_config_profile.json](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents/tree/main/thaoam_easyapache4_config_profile.json) và upload lên EasyApache4 profile của server WHM và cho chạy mặc định profile này.
 
 ### tài liệu riêng về cấu hình WHM & cPanel
 
@@ -40,12 +40,11 @@ Tài liệu này thuộc bản quyền của &copy; 2022-{{ "now" | date: "%Y" }
 
 ### License Bản quyền
 
-Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng thực theo [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng thực theo [MIT license](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents/tree/main/LICENSE.txt).
 
-### Contributing
+### Đóng góp dự án
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+Khi bạn quyết định, hoặc thực hiện đóng góp cho dự án này, nên thảo luận những thay đổi của bạn thông qua issue, email, hoặc bất kì phương thức nào với những thành viên chủ chốt, để đảm bảo những thay đổi trên có lợi ích cho hệ thống, và mã nguồn. server. Xem thêm thông tin để trở thành người đóng góp tại [Đóng góp cho dự án này](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents#contributing).
 
 #### Những thành viên tham gia đóng góp dự án tài liệu này!
 
