@@ -18,7 +18,7 @@ Tài liệu này dành cho root server cấu hình cho server trên WHM để đ
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
+Bắt đầu nhanh với việc chỉ cần tải profile EasyApache4 này của Thaoam.net [\thaoam_easyapache4_config_profile.json](https://github.com/just-the-docs/just-the-docs/tree/main/thaoam_easyapache4_config_profile.json) và upload lên EasyApache4 profile của server WHM và cho chạy mặc định profile này.
 
 ## Cài ionCube PHP Loader
 
