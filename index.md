@@ -22,7 +22,7 @@ Tài liệu này nhằm bổ sung kiến thức và tránh nhầm lẫn, quên d
 
 Sau khi đăng ký tên miền Tiếp mới thấy hết được sự phiền phức của nó khi chuyển đổi. Lên kế hoạch chuyển qua dùng miền quốc tế thôi. Khi đăng ký tên miền mới với chi phí quá cao 750.000đ một năm khi đăng ký mới, kèm phí gia hạn khủng khiếp lên đến 460.000đ các năm tiếp theo, và vì đăng ký tên miền qua một nhà cung cấp trung gian là công ty TNHH strongwings ở Hóc Môn, hiện tên miền đã bị kẹp 2 đầu quản lý bởi những người xa lạ. Do đó để đơn giản hóa sau các sự cố của doanh nghiệp, chúng tôi tạo ra tài liệu hướng dẫn này nhằm đơn giản hóa vận hành, và giúp khách hàng sử dụng dịch vụ đơn giản hơn.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+Tài liệu kỹ thuật này dành cho nhân viên, đối tác của [Doanh nghiệp tư nhân Thảo Am](https://thaoam.net), trong việc hỗ trợ cấu hình máy chủ server, WHM & cPanel, root, domain, tên miền, và automation system billing WHMCS. Việc này giúp cho quá trình đồng bộ cấu hình server diễn ra ổn định, đáp ứng nhu cầu khách hàng, và giải quyết nhanh hoàn toàn các sự cố và đưa mọi thứ trở nên hoạt động ổn định.
 
 ### Quick start: Use as a GitHub Pages remote theme
 
@@ -68,9 +68,9 @@ remote_theme: just-the-docs/just-the-docs
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
+### tài liệu riêng về cấu hình WHM & cPanel
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+- [Xem tài liệu configuration cấu hình WHM & cPanel]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 
@@ -78,7 +78,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 Tài liệu này thuộc bản quyền của &copy; 2022-{{ "now" | date: "%Y" }} của Doanh nghiệp tư nhân Thảo Am, chịu trách nhiệm bởi [Phạm Xuân Tiếp](https://thaoam.net).
 
-### License
+### License Bản quyền
 
 Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng thực theo [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
 
@@ -87,7 +87,7 @@ Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng th
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
 
-#### Thank you to the contributors of Just the Docs!
+#### Những thành viên tham gia đóng góp dự án tài liệu này!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -97,8 +97,8 @@ email, or any other method with the owners of this repository before making a ch
 {% endfor %}
 </ul>
 
-### Code of Conduct
+### Quy định về ứng xử
 
-Just the Docs is committed to fostering a welcoming community.
+Tài liệu này là mở rộng cho các thành viên tham gia như nhân viên, đối tác, kỹ thuật.
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+[Xem chi tiết tài liệu quy định ứng xử bằng English](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents/tree/main/CODE_OF_CONDUCT.md) trên GitHub của doanh nghiệp.
