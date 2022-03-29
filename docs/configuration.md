@@ -53,7 +53,9 @@ Cách thức này sử dung GUI version của easyapache để cài đặt ioncu
 7. Sau đó cần chờ hệ thống build đồng bộ, có thể mất từ **10-30 phút tùy độ mạnh yếu của hệ thống** phần cứng.
 
 ## Hướng dẫn cài SoapClient trên WHM, cPanel
-
+```yaml
+Your server does not support SOAPClient. Please install and activate it 
+```
 Đây là cách cài **SoapClient**, hay **soap** php extention khi cần thiết các module của WHMCS cần dùng tới.
 
 1. Đăng nhập vào WHM bằng tài khoản **root**.
