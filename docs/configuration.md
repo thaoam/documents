@@ -64,5 +64,5 @@ Your server does not support SOAPClient. Please install and activate it
 4. Bấm vào '**PHP Extensions**' trong ô tìm kiếm gõ chữ "**soap**"
 5. nó sẽ hiện ra các extensions liên quan dùng cho soapclient như là '**php74-php-soap**' hay '**php80-php-soap**' hoặc các phiên bản cao hơn về sau, chỉ cần **tích chọn cho nó sang màu xanh nước biển** để kích hoạt nó.
 6. Bấm vào '**Next**' để tiếp tục
-7. Đến phần '**Review**'Sau đó cần chờ hệ thống build đồng bộ, có thể mất từ **10-30 phút tùy độ mạnh yếu của hệ thống** phần cứng. thì kéo xuống dưới bấm vào nút '**Provision**' để hệ thống lưu lại, và kích hoạt soap, soapclient cho toàn bộ WHM và cPanel.
+7. Đến phần '**Review**' Sau đó cần chờ hệ thống build đồng bộ, có thể mất từ **10-30 phút tùy độ mạnh yếu của hệ thống** phần cứng. thì kéo xuống dưới bấm vào nút '**Provision**' để hệ thống lưu lại, và kích hoạt soap, soapclient cho toàn bộ WHM và cPanel.
 8. Sau đó cần chờ hệ thống build đồng bộ, có thể mất từ **10-30 phút tùy độ mạnh yếu của hệ thống** phần cứng.
