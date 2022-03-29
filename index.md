@@ -24,49 +24,9 @@ Sau khi đăng ký tên miền Tiếp mới thấy hết được sự phiền p
 
 Tài liệu kỹ thuật này dành cho nhân viên, đối tác của [Doanh nghiệp tư nhân Thảo Am](https://thaoam.net), trong việc hỗ trợ cấu hình máy chủ server, WHM & cPanel, root, domain, tên miền, và automation system billing WHMCS. Việc này giúp cho quá trình đồng bộ cấu hình server diễn ra ổn định, đáp ứng nhu cầu khách hàng, và giải quyết nhanh hoàn toàn các sự cố và đưa mọi thứ trở nên hoạt động ổn định.
 
-### Quick start: Use as a GitHub Pages remote theme
+### Cài đặt nhanh All-in-one tất cả trong một
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
-
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-  ```bash
-  $ gem install just-the-docs
-  ```
-  ```yaml
-  # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
-  ```
-
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-  ```yaml
-  theme: "just-the-docs"
-  ```
-
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-  ```bash
-  $ bundle exec just-the-docs rake search:init
-  ```
-
-3. Run you local Jekyll server
-  ```bash
-  $ jekyll serve
-  ```
-  ```bash
-  # .. or if you're using a Gemfile (bundler)
-  $ bundle exec jekyll serve
-  ```
-
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+Bắt đầu nhanh với việc chỉ cần tải profile EasyApache4 này của Thaoam.net [\thaoam_easyapache4_config_profile.json](https://github.com/just-the-docs/just-the-docs/tree/main/thaoam_easyapache4_config_profile.json) và upload lên EasyApache4 profile của server WHM và cho chạy mặc định profile này.
 
 ### tài liệu riêng về cấu hình WHM & cPanel
 
