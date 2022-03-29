@@ -7,7 +7,7 @@ nav_order: 2
 # Configuration Cấu hình cho root cPanel & WHM
 {: .no_toc }
 
-Tài liệu này dành cho root server cấu hình cho server trên WHM để đáp ứng hiệu suất của server máy chủ phục vụ hosting \_config.yml file.
+Tài liệu này dành cho root server cấu hình cho server trên WHM để đáp ứng hiệu suất của server máy chủ phục vụ hosting WHM hệ thống.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
