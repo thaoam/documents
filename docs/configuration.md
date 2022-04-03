@@ -66,3 +66,13 @@ Your server does not support SOAPClient. Please install and activate it
 6. Bấm vào '**Next**' để tiếp tục
 7. Đến phần '**Review**' Sau đó cần chờ hệ thống build đồng bộ, có thể mất từ **10-30 phút tùy độ mạnh yếu của hệ thống** phần cứng. thì kéo xuống dưới bấm vào nút '**Provision**' để hệ thống lưu lại, và kích hoạt soap, soapclient cho toàn bộ WHM và cPanel.
 8. Sau đó cần chờ hệ thống build đồng bộ, có thể mất từ **10-30 phút tùy độ mạnh yếu của hệ thống** phần cứng.
+
+## Xử lý lỗi cPanel/WHM Connection Refused
+```yaml
+đã từ chối kết nối. ERR_CONNECTION_REFUSED
+```
+Khi quá trình xử lý WHM gặp lỗi hệ thống kết nối bị từ chối, cách tốt nhất là update cPanel và WHM từ console.
+
+Hướng dẫn vào console rồi gõ mã sau:
+
+**/scripts/upcp --force**
