@@ -26,7 +26,7 @@ Tài liệu kỹ thuật này dành cho nhân viên, đối tác của [Doanh ng
 
 ### Cài đặt nhanh All-in-one tất cả trong một
 
-Bắt đầu nhanh với việc chỉ cần tải profile EasyApache4 này của Thaoam.net [\thaoam_easyapache4_config_profile.json](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents/tree/main/thaoam_easyapache4_config_profile.json) và upload lên EasyApache4 profile của server WHM và cho chạy mặc định profile này.
+Bắt đầu nhanh với việc chỉ cần tải profile EasyApache4 này của Thaoam.net [\thaoam_easyapache4_config_profile.json](https://github.com/thaoam/documents/tree/main/thaoam_easyapache4_config_profile.json) và upload lên EasyApache4 profile của server WHM và cho chạy mặc định profile này.
 
 ### tài liệu riêng về cấu hình WHM & cPanel
 
@@ -40,11 +40,11 @@ Tài liệu này thuộc bản quyền của &copy; 2022-{{ "now" | date: "%Y" }
 
 ### License Bản quyền
 
-Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng thực theo [MIT license](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents/tree/main/LICENSE.txt).
+Tài liệu hướng dẫn của Thảo Am tuân theo quy định và chứng thực theo [MIT license](https://github.com/thaoam/documents/tree/main/LICENSE.txt).
 
 ### Đóng góp dự án
 
-Khi bạn quyết định, hoặc thực hiện đóng góp cho dự án này, nên thảo luận những thay đổi của bạn thông qua issue, email, hoặc bất kì phương thức nào với những thành viên chủ chốt, để đảm bảo những thay đổi trên có lợi ích cho hệ thống, và mã nguồn. server. Xem thêm thông tin để trở thành người đóng góp tại [Đóng góp cho dự án này](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents#contributing).
+Khi bạn quyết định, hoặc thực hiện đóng góp cho dự án này, nên thảo luận những thay đổi của bạn thông qua issue, email, hoặc bất kì phương thức nào với những thành viên chủ chốt, để đảm bảo những thay đổi trên có lợi ích cho hệ thống, và mã nguồn. server. Xem thêm thông tin để trở thành người đóng góp tại [Đóng góp cho dự án này](https://github.com/thaoam/documents#contributing).
 
 #### Những thành viên tham gia đóng góp dự án tài liệu này!
 
@@ -60,4 +60,4 @@ Khi bạn quyết định, hoặc thực hiện đóng góp cho dự án này, n
 
 Tài liệu này là mở rộng cho các thành viên tham gia như nhân viên, đối tác, kỹ thuật.
 
-[Xem chi tiết tài liệu quy định ứng xử bằng English](https://github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents/tree/main/CODE_OF_CONDUCT.md) trên GitHub của doanh nghiệp.
+[Xem chi tiết tài liệu quy định ứng xử bằng English](https://github.com/thaoam/documents/tree/main/CODE_OF_CONDUCT.md) trên GitHub của doanh nghiệp.
