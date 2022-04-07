@@ -76,3 +76,17 @@ Khi quá trình xử lý WHM gặp lỗi hệ thống kết nối bị từ ch�
 Hướng dẫn vào console rồi gõ mã sau:
 
 **/scripts/upcp --force**
+
+## Upload Max. Filesize và Max. Post Size
+
+Đây là những thông số hết sức cần thiết cho việc import những site lớn đã có sẵn vào hệ thống hosting
+
+Hướng xử lý bật
+
+1. Đăng nhập vào **WHM** bằng tài khoản root.
+2. Bên trong "**Software**" mở "**MultiPHP INI Editor**" hoặc trong thanh tìm kiếm gõ vào "**MultiPHP INI Editor**".
+3. bấm Ctrl + F bàn phím và gõ "**upload_max_filesize**" trong hộp giá trị gõ vào "**256M**".
+4. bấm Ctrl + F bàn phím và gõ "**post_max_size**" trong hộp giá trị gõ vào "**256M**".
+5. Apply thay đổi. Xong.
+
+
