@@ -234,7 +234,7 @@ To add auxiliary links to your site (in the upper right on all pages), add it to
 # Aux links for the upper right navigation
 aux_links:
   "Thảo Am trên GitHub":
-    - "//github.com/Thao-Am-Private-Charity-Funds-Vietnam/documents"
+    - "//github.com/thaoam/documents"
 ```
 
 ---
