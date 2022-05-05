@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Customization
+title: CSS Skills
 nav_order: 6
 ---
 
-# Customization
+# CSS Skills
 {: .no_toc }
 
-## Table of contents
+## Mục lục
 {: .no_toc .text-delta }
 
 1. TOC
@@ -15,23 +15,24 @@ nav_order: 6
 
 ---
 
-## Color schemes
+## Làm text đổi màu tùy theo background
 
 {: .d-inline-block }
 
 New
 {: .label .label-green }
 
-Just the Docs supports two color schemes: light (default), and dark.
+Để text có thể tự chuyển màu, tùy vào background thay đổi thì ta tùy biến với mã CSS sau đây:
 
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
-
-#### Example
+#### Mẫu mã code CSS
 {: .no_toc }
 
 ```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+  background: inherit;
+  background-clip: text;
+  -webkit-background-clip: text;
+  filter: invert(1) grayscale(1);
+  -webkit-filter: invert(1) grayscale(1);
 ```
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
